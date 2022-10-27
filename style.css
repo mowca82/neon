@@ -1,0 +1,7 @@
+body {
+    background-color: rgb(131, 79, 235);
+}
+.grid-contener {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
