@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../CV HTML"
+        },
+        {
+            "path": "../project GoIT"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "neon",
+        "git.ignoreLimitWarning": true
+    }
+}
